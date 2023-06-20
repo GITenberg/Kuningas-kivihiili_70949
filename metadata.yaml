@@ -1,0 +1,40 @@
+_repo: Kuningas-kivihiili_70949
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hollo, J. A. (Juho Aukusti)
+    alias: Hollo, Juho Aukusti
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '47352'
+    url: http://www.gutenberg.org/2009/agents/47352
+    wikipedia: https://fi.wikipedia.org/wiki/J._A._Hollo
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Fitch, Clarke
+    - Garrison, Frederick
+    - Sinclair, Upton Beall
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: https://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '2023-06-09'
+identifiers:
+  gutenberg: '70949'
+language: fi
+pgterms:marc905: 20221230130319sinclair
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Anna Siren and Tapio Riikonen
+publication_note: '  $aFinland :$bKust.Oy Kansanvalta, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kuningas kivihiili
+url: http://www.gutenberg.org/ebooks/70949
